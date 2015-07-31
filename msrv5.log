@@ -1,0 +1,1146 @@
+>>>...MODULE:srv_auto_save >>>2015-07-29 12:01:02.272338
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:20:10.259625
+Read json file fail: [Errno 2] No such file or directory: 'data1.json'
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:24:04.588616
+Read json file fail: the JSON object must be str, not 'TextIOWrapper'
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:26:50.762952
+Read json file fail: the JSON object must be str, not 'TextIOWrapper'
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:28:56.771669
+Read json file fail: Expecting property name enclosed in double quotes: line 2 column 1 (char 2)
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:34:01.495133
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:34:34.665362
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:43:16.051862
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:44:19.477950
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:45:46.870410
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:45:46.872723
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:46:26.878980
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:47:16.884573
+{
+	"page":3,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:50:33.983024
+{
+	"page":3,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0004","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0004","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0004","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 13:52:03.991686
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 14:22:02.482566
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 14:24:22.886373
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:18:49.955191
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:19:29.958653
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:20:19.963274
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:22:22.027914
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:23:42.036286
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:24:52.042746
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:26:32.056192
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:30:10.487683
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:31:30.494521
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 15:54:23.364947
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 16:03:26.476261
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_get_all >>>2015-07-29 16:54:00.672608
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_get_all >>>2015-07-29 16:57:53.893582
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 16:57:57.772005
+request_data: <built-in method decode of bytes object at 0x100391a08>
+>>>...MODULE:srv_get_all >>>2015-07-29 17:06:15.553931
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 17:06:18.574275
+Request fail: 'ImmutableMultiDict' object has no attribute 'count'
+>>>...MODULE:srv_get_all >>>2015-07-29 17:07:28.519959
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 17:07:32.407887
+request_data: 0
+>>>...MODULE:srv_get_all >>>2015-07-29 17:08:28.524605
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 17:08:31.979310
+Request fail: 400: Bad Request
+>>>...MODULE:srv_get_all >>>2015-07-29 17:09:29.827937
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 17:09:33.549532
+request_data: <Request 'http://192.168.1.229:8088/srv/auto/save/' [POST]>
+>>>...MODULE:srv_get_all >>>2015-07-29 17:10:29.834687
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-29 17:10:37.851273
+request_data: b''
+>>>...MODULE:srv_get_all >>>2015-07-30 11:55:10.555037
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 11:55:16.397964
+request_data: <Request 'http://192.168.1.229:8088/srv/auto/save/' [POST]>
+>>>...MODULE:srv_get_all >>>2015-07-30 13:26:49.641370
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 13:26:54.126977
+request_data: ImmutableMultiDict([])
+>>>...MODULE:srv_get_all >>>2015-07-30 13:27:39.695280
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 13:27:46.284594
+request_data: ImmutableMultiDict([('id', 'T0003'), ('full_name', '陳傑西'), ('branch', ''), ('department', '行政部')])
+>>>...MODULE:srv_get_all >>>2015-07-30 13:29:09.704454
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 13:32:17.594925
+request_data: 4
+>>>...MODULE:srv_get_all >>>2015-07-30 13:33:19.736757
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 13:33:33.906242
+request_data: 蔡依玲
+>>>...MODULE:srv_get_all >>>2015-07-30 13:45:55.991775
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"},
+	  	{"id":"T0006","full_name":"Micle Chen","branch":"臺北","department":"總經理室"},
+	  	{"id":"T0007","full_name":"木村到頭哉","branch":"高雄","department":"發行處"},
+	  	{"id":"T0008","full_name":"賽德克・巴萊","branch":"花蓮","department":"業務部"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 13:47:04.216223
+Request fail: the JSON object must be str, not 'TextIOWrapper'
+>>>...MODULE:srv_get_all >>>2015-07-30 13:49:41.195027
+
+>>>...MODULE:srv_get_all >>>2015-07-30 13:50:31.201175
+
+>>>...MODULE:srv_get_all >>>2015-07-30 13:56:36.032243
+
+>>>...MODULE:srv_get_all >>>2015-07-30 13:57:26.036313
+
+>>>...MODULE:srv_get_all >>>2015-07-30 13:58:26.042924
+
+>>>...MODULE:srv_get_all >>>2015-07-30 13:58:56.051770
+
+>>>...MODULE:srv_get_all >>>2015-07-30 14:01:28.988967
+
+>>>...MODULE:srv_get_all >>>2015-07-30 14:02:50.909853
+
+>>>...MODULE:srv_get_all >>>2015-07-30 14:04:24.458500
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:04:29.429891
+data: ImmutableMultiDict([('full_name', '蔡依玲'), ('branch', '台中'), ('department', '企劃科'), ('id', 'T0005')])
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:04:30.220527
+data: ImmutableMultiDict([('full_name', '周杰倫'), ('branch', '臺北'), ('department', '業務部'), ('id', 'T0004')])
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:04:33.084301
+data: ImmutableMultiDict([('full_name', '蔡依玲'), ('branch', '台中'), ('department', '企劃科'), ('id', 'T0005')])
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:04:35.066142
+data: ImmutableMultiDict([('full_name', '陳傑西'), ('branch', '台南'), ('department', '行政部'), ('id', 'T0003')])
+>>>...MODULE:srv_get_all >>>2015-07-30 14:07:52.974133
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:08:21.910042
+data: {
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_get_all >>>2015-07-30 14:09:22.986072
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:09:27.219350
+Request fail: string indices must be integers
+>>>...MODULE:srv_get_all >>>2015-07-30 14:10:52.995199
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:10:56.995974
+data: "
+>>>...MODULE:srv_get_all >>>2015-07-30 14:12:03.003814
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:12:06.613615
+Request fail: 'str' object has no attribute 'read'
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:12:09.756338
+Request fail: 'str' object has no attribute 'read'
+>>>...MODULE:srv_get_all >>>2015-07-30 14:13:14.669078
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:13:18.759640
+data: "{\n\t\"page\":1,\n\t\"total\":1,\n\t\"records\":9,\n\t\"rows\":[\n\t\t{\"id\":\"T0001\",\"full_name\":\"\u5357\u5e0c\",\"branch\":\"\u53f0\u5357\",\"department\":\"\u751f\u7522\u90e8\"},\n\t  \t{\"id\":\"T0002\",\"full_name\":\"\u738b\u5fe0\u5e73\",\"branch\":\"\u5609\u7fa9\",\"department\":\"\u8ca1\u6703\u90e8\"},\n\t  \t{\"id\":\"T0003\",\"full_name\":\"\u9673\u5091\u897f\",\"branch\":\"\u53f0\u5357\",\"department\":\"\u884c\u653f\u90e8\"},\n\t  \t{\"id\":\"T0004\",\"full_name\":\"\u5468\u6770\u502b\",\"branch\":\"\u81fa\u5317\",\"department\":\"\u696d\u52d9\u90e8\"},\n\t  \t{\"id\":\"T0005\",\"full_name\":\"\u8521\u4f9d\u73b2\",\"branch\":\"\u53f0\u4e2d\",\"department\":\"\u4f01\u5283\u79d1\"}\n\t],\n\t\"userdata\":{}\n}"
+>>>...MODULE:srv_get_all >>>2015-07-30 14:18:04.795266
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:21:23.723417
+Request fail: __init__() got an unexpected keyword argument 'ident'
+>>>...MODULE:srv_get_all >>>2015-07-30 14:21:54.831541
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:21:59.337425
+data: "{\n\t\"page\":1,\n\t\"total\":1,\n\t\"records\":9,\n\t\"rows\":[\n\t\t{\"id\":\"T0001\",\"full_name\":\"南希\",\"branch\":\"台南\",\"department\":\"生產部\"},\n\t  \t{\"id\":\"T0002\",\"full_name\":\"王忠平\",\"branch\":\"嘉義\",\"department\":\"財會部\"},\n\t  \t{\"id\":\"T0003\",\"full_name\":\"陳傑西\",\"branch\":\"台南\",\"department\":\"行政部\"},\n\t  \t{\"id\":\"T0004\",\"full_name\":\"周杰倫\",\"branch\":\"臺北\",\"department\":\"業務部\"},\n\t  \t{\"id\":\"T0005\",\"full_name\":\"蔡依玲\",\"branch\":\"台中\",\"department\":\"企劃科\"}\n\t],\n\t\"userdata\":{}\n}"
+>>>...MODULE:srv_get_all >>>2015-07-30 14:23:28.672248
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:23:32.719737
+Request fail: b'{\n\t"page":1,\n\t"total":1,\n\t"records":9,\n\t"rows":[\n\t\t{"id":"T0001","full_name":"\xe5\x8d\x97\xe5\xb8\x8c","branch":"\xe5\x8f\xb0\xe5\x8d\x97","department":"\xe7\x94\x9f\xe7\x94\xa2\xe9\x83\xa8"},\n\t  \t{"id":"T0002","full_name":"\xe7\x8e\x8b\xe5\xbf\xa0\xe5\xb9\xb3","branch":"\xe5\x98\x89\xe7\xbe\xa9","department":"\xe8\xb2\xa1\xe6\x9c\x83\xe9\x83\xa8"},\n\t  \t{"id":"T0003","full_name":"\xe9\x99\xb3\xe5\x82\x91\xe8\xa5\xbf","branch":"\xe5\x8f\xb0\xe5\x8d\x97","department":"\xe8\xa1\x8c\xe6\x94\xbf\xe9\x83\xa8"},\n\t  \t{"id":"T0004","full_name":"\xe5\x91\xa8\xe6\x9d\xb0\xe5\x80\xab","branch":"\xe8\x87\xba\xe5\x8c\x97","department":"\xe6\xa5\xad\xe5\x8b\x99\xe9\x83\xa8"},\n\t  \t{"id":"T0005","full_name":"\xe8\x94\xa1\xe4\xbe\x9d\xe7\x8e\xb2","branch":"\xe5\x8f\xb0\xe4\xb8\xad","department":"\xe4\xbc\x81\xe5\x8a\x83\xe7\xa7\x91"}\n\t],\n\t"userdata":{}\n}' is not JSON serializable
+>>>...MODULE:srv_get_all >>>2015-07-30 14:26:16.872371
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:26:22.141109
+Request fail: __init__() got an unexpected keyword argument 'ensure_ascii'
+>>>...MODULE:srv_get_all >>>2015-07-30 14:27:06.875693
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 14:27:10.652313
+data: {'userdata': {}, 'total': 1, 'rows': [{'branch': '台南', 'department': '生產部', 'id': 'T0001', 'full_name': '南希'}, {'branch': '嘉義', 'department': '財會部', 'id': 'T0002', 'full_name': '王忠平'}, {'branch': '台南', 'department': '行政部', 'id': 'T0003', 'full_name': '陳傑西'}, {'branch': '臺北', 'department': '業務部', 'id': 'T0004', 'full_name': '周杰倫'}, {'branch': '台中', 'department': '企劃科', 'id': 'T0005', 'full_name': '蔡依玲'}], 'records': 9, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-30 15:24:01.390899
+data: {'userdata': {}, 'total': 1, 'rows': [{'branch': '台南', 'department': '生產部', 'id': 'T0001', 'full_name': '南希'}, {'branch': '嘉義', 'department': '財會部', 'id': 'T0002', 'full_name': '王忠平'}, {'branch': '台南', 'department': '行政部', 'id': 'T0003', 'full_name': '陳傑西'}, {'branch': '臺北', 'department': '業務部', 'id': 'T0004', 'full_name': '周杰倫'}, {'branch': '台中', 'department': '企劃科', 'id': 'T0005', 'full_name': '蔡依玲'}], 'records': 9, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-30 15:24:05.222129
+data: {'userdata': {}, 'total': 1, 'rows': [{'branch': '台南', 'department': '生產部', 'id': 'T0001', 'full_name': '南希'}, {'branch': '嘉義', 'department': '財會部', 'id': 'T0002', 'full_name': '王忠平'}, {'branch': '台南', 'department': '行政部', 'id': 'T0003', 'full_name': '陳傑西'}, {'branch': '臺北', 'department': '業務部', 'id': 'T0004', 'full_name': '周杰倫'}, {'branch': '台中', 'department': '企劃科', 'id': 'T0005', 'full_name': '蔡依玲'}], 'records': 9, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-30 15:24:29.669645
+data: {'userdata': {}, 'total': 1, 'rows': [{'branch': '台南', 'department': '生產部', 'id': 'T0001', 'full_name': '南希'}, {'branch': '嘉義', 'department': '財會部', 'id': 'T0002', 'full_name': '王忠平'}, {'branch': '台南', 'department': '行政部', 'id': 'T0003', 'full_name': '陳傑西'}, {'branch': '臺北', 'department': '業務部', 'id': 'T0004', 'full_name': '周杰倫'}, {'branch': '台中', 'department': '企劃科', 'id': 'T0005', 'full_name': '蔡依玲'}], 'records': 9, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-30 15:24:36.845895
+data: {'userdata': {}, 'total': 1, 'rows': [{'branch': '台南', 'department': '生產部', 'id': 'T0001', 'full_name': '南希'}, {'branch': '嘉義', 'department': '財會部', 'id': 'T0002', 'full_name': '王忠平'}, {'branch': '台南', 'department': '行政部', 'id': 'T0003', 'full_name': '陳傑西'}, {'branch': '臺北', 'department': '業務部', 'id': 'T0004', 'full_name': '周杰倫'}, {'branch': '台中', 'department': '企劃科', 'id': 'T0005', 'full_name': '蔡依玲'}], 'records': 9, 'page': 1}
+>>>...MODULE:srv_get_all >>>2015-07-30 16:52:18.166348
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 16:52:22.935516
+Request fail: 'full_name'
+>>>...MODULE:srv_get_all >>>2015-07-30 16:53:28.174532
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 16:53:32.910421
+data: [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+>>>...MODULE:srv_get_all >>>2015-07-30 16:55:38.185000
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_get_all >>>2015-07-30 16:56:08.188447
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 16:56:12.496172
+Request fail: list indices must be integers, not str
+>>>...MODULE:srv_get_all >>>2015-07-30 16:58:15.274262
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 16:58:20.294559
+data: 5
+>>>...MODULE:srv_get_all >>>2015-07-30 17:00:18.799015
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 17:00:23.962328
+{'branch': '台南', 'id': 'T0001', 'department': '生產部', 'full_name': '南希'}
+{'branch': '嘉義', 'id': 'T0002', 'department': '財會部', 'full_name': '王忠平'}
+{'branch': '台南', 'id': 'T0003', 'department': '行政部', 'full_name': '陳傑西'}
+{'branch': '臺北', 'id': 'T0004', 'department': '業務部', 'full_name': '周杰倫'}
+{'branch': '台中', 'id': 'T0005', 'department': '企劃科', 'full_name': '蔡依玲'}
+>>>...MODULE:srv_get_all >>>2015-07-30 17:03:04.690493
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 17:03:11.407379
+T0002
+{'full_name': '南希', 'department': '生產部', 'branch': '台南', 'id': 'T0001'}
+{'full_name': '王忠平', 'department': '財會部', 'branch': '嘉義', 'id': 'T0002'}
+{'full_name': '陳傑西', 'department': '行政部', 'branch': '台南', 'id': 'T0003'}
+{'full_name': '周杰倫', 'department': '業務部', 'branch': '臺北', 'id': 'T0004'}
+{'full_name': '蔡依玲', 'department': '企劃科', 'branch': '台中', 'id': 'T0005'}
+>>>...MODULE:srv_get_all >>>2015-07-30 17:04:48.002523
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-30 17:18:35.300637
+T0005
+{'department': '企劃科', 'id': 'T0005', 'branch': '台中', 'full_name': '蔡依玲'}
+>>>...MODULE:srv_auto_save >>>2015-07-31 09:33:06.342579
+T0004
+[{'id': 'T0001', 'department': '生產部', 'branch': '台南', 'full_name': '南希'}, {'id': 'T0002', 'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平'}, {'id': 'T0003', 'department': '行政部', 'branch': '台南', 'full_name': '陳傑西'}, {'id': 'T0004', 'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫'}, {'id': 'T0005', 'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲'}]
+>>>...MODULE:srv_get_all >>>2015-07-31 09:33:06.367563
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-31 09:33:10.185353
+T0002
+[{'id': 'T0001', 'department': '生產部', 'branch': '台南', 'full_name': '南希'}, {'id': 'T0002', 'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平588'}, {'id': 'T0003', 'department': '行政部', 'branch': '台南', 'full_name': '陳傑西'}, {'id': 'T0004', 'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫'}, {'id': 'T0005', 'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲'}]
+>>>...MODULE:srv_auto_save >>>2015-07-31 09:34:54.179290
+T0004
+[{'full_name': '南希', 'department': '生產部', 'branch': '台南', 'id': 'T0001'}, {'full_name': '王忠平', 'department': '財會部', 'branch': '嘉義', 'id': 'T0002'}, {'full_name': '陳傑西', 'department': '行政部', 'branch': '台南', 'id': 'T0003'}, {'full_name': '周杰倫', 'department': '業務部', 'branch': '臺北', 'id': 'T0004'}, {'full_name': '蔡依玲', 'department': '企劃科', 'branch': '台中', 'id': 'T0005'}]
+Request fail: must be str, not dict
+>>>...MODULE:srv_get_all >>>2015-07-31 09:35:14.793154
+
+>>>...MODULE:srv_get_all >>>2015-07-31 09:36:54.804399
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-31 09:37:21.005964
+T0002
+[{'id': 'T0001', 'department': '生產部', 'full_name': '南希', 'branch': '台南'}, {'id': 'T0002', 'department': '財會部', 'full_name': '王忠平555', 'branch': '嘉義'}, {'id': 'T0003', 'department': '行政部', 'full_name': '陳傑西', 'branch': '台南'}, {'id': 'T0004', 'department': '業務部', 'full_name': '周杰倫', 'branch': '臺北'}, {'id': 'T0005', 'department': '企劃科', 'full_name': '蔡依玲', 'branch': '台中'}]
+>>>...MODULE:srv_get_all >>>2015-07-31 09:54:32.982177
+
+>>>...MODULE:srv_get_all >>>2015-07-31 09:56:19.637314
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-31 09:56:38.105740
+T0003
+[{'id': 'T0001', 'branch': '台南', 'full_name': '南希', 'department': '生產部'}, {'id': 'T0002', 'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部'}, {'id': 'T0003', 'branch': '台南', 'full_name': '陳傑西111', 'department': '行政部'}, {'id': 'T0004', 'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部'}, {'id': 'T0005', 'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科'}]
+{'rows': [{'id': 'T0001', 'branch': '台南', 'full_name': '南希', 'department': '生產部'}, {'id': 'T0002', 'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部'}, {'id': 'T0003', 'branch': '台南', 'full_name': '陳傑西111', 'department': '行政部'}, {'id': 'T0004', 'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部'}, {'id': 'T0005', 'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科'}], 'records': 9, 'page': 1, 'userdata': {}, 'total': 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 09:59:10.165217
+
+>>>...MODULE:srv_get_all >>>2015-07-31 10:00:20.171729
+{
+	"page":1,
+	"total":1,
+	"records":9,
+	"rows":[
+		{"id":"T0001","full_name":"南希","branch":"台南","department":"生產部"},
+	  	{"id":"T0002","full_name":"王忠平","branch":"嘉義","department":"財會部"},
+	  	{"id":"T0003","full_name":"陳傑西","branch":"台南","department":"行政部"},
+	  	{"id":"T0004","full_name":"周杰倫","branch":"臺北","department":"業務部"},
+	  	{"id":"T0005","full_name":"蔡依玲","branch":"台中","department":"企劃科"}
+	],
+	"userdata":{}
+}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:00:35.072319
+T0003
+[{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+{'userdata': {}, 'rows': [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}], 'records': 9, 'total': 1, 'page': 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:01:00.178245
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f5656", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:01:39.781401
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f5656", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:01:58.395115
+T0003
+[{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+{'userdata': {}, 'rows': [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}], 'records': 9, 'total': 1, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:02:01.307690
+T0002
+[{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+{'userdata': {}, 'rows': [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}], 'records': 9, 'total': 1, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:02:02.085424
+T0003
+[{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+{'userdata': {}, 'rows': [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}], 'records': 9, 'total': 1, 'page': 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:02:19.786524
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f5656", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:07:20.434486
+T0004
+[{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+{'userdata': {}, 'rows': [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西5656', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}], 'records': 9, 'total': 1, 'page': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:07:23.269973
+T0003
+[{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}]
+{'userdata': {}, 'rows': [{'department': '生產部', 'branch': '台南', 'full_name': '南希', 'id': 'T0001'}, {'department': '財會部', 'branch': '嘉義', 'full_name': '王忠平123', 'id': 'T0002'}, {'department': '行政部', 'branch': '台南', 'full_name': '陳傑西', 'id': 'T0003'}, {'department': '業務部', 'branch': '臺北', 'full_name': '周杰倫', 'id': 'T0004'}, {'department': '企劃科', 'branch': '台中', 'full_name': '蔡依玲', 'id': 'T0005'}], 'records': 9, 'total': 1, 'page': 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:07:34.886926
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:08:24.893433
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:08:54.897216
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:20:10.650363
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:20:40.655236
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:20:44.969042
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:21:01.316550
+{"userdata": {}, "rows": [{"department": "\u751f\u7522\u90e8", "branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "id": "T0001"}, {"department": "\u8ca1\u6703\u90e8", "branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73123", "id": "T0002"}, {"department": "\u884c\u653f\u90e8", "branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "id": "T0003"}, {"department": "\u696d\u52d9\u90e8", "branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "id": "T0004"}, {"department": "\u4f01\u5283\u79d1", "branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "id": "T0005"}], "records": 9, "total": 1, "page": 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:21:37.358686
+T0003
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平123', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'page': 1, 'userdata': {}, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平123', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'records': 9, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:21:38.549059
+T0002
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平123', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'records': 9, 'page': 1, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平123', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:21:39.106586
+T0003
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平123', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'records': 9, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平123', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'page': 1, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:21:42.761036
+T0002
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'page': 1, 'records': 9, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'total': 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:21:46.344532
+{"page": 1, "records": 9, "rows": [{"branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "department": "\u751f\u7522\u90e8", "id": "T0001"}, {"branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73", "department": "\u8ca1\u6703\u90e8", "id": "T0002"}, {"branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "department": "\u884c\u653f\u90e8", "id": "T0003"}, {"branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "department": "\u696d\u52d9\u90e8", "id": "T0004"}, {"branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "department": "\u4f01\u5283\u79d1", "id": "T0005"}], "userdata": {}, "total": 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:21:51.067457
+T0002
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'page': 1, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'records': 9, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:21:54.688959
+T0003
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'records': 9, 'page': 1, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'total': 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:21:56.285872
+{"records": 9, "page": 1, "rows": [{"branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "department": "\u751f\u7522\u90e8", "id": "T0001"}, {"branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73", "department": "\u8ca1\u6703\u90e8", "id": "T0002"}, {"branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "department": "\u884c\u653f\u90e8888", "id": "T0003"}, {"branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "department": "\u696d\u52d9\u90e8", "id": "T0004"}, {"branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "department": "\u4f01\u5283\u79d1", "id": "T0005"}], "userdata": {}, "total": 1}
+>>>...MODULE:srv_get_all >>>2015-07-31 10:22:20.673886
+{"records": 9, "page": 1, "rows": [{"branch": "\u53f0\u5357", "full_name": "\u5357\u5e0c", "department": "\u751f\u7522\u90e8", "id": "T0001"}, {"branch": "\u5609\u7fa9", "full_name": "\u738b\u5fe0\u5e73", "department": "\u8ca1\u6703\u90e8", "id": "T0002"}, {"branch": "\u53f0\u5357", "full_name": "\u9673\u5091\u897f", "department": "\u884c\u653f\u90e8888", "id": "T0003"}, {"branch": "\u81fa\u5317", "full_name": "\u5468\u6770\u502b", "department": "\u696d\u52d9\u90e8", "id": "T0004"}, {"branch": "\u53f0\u4e2d", "full_name": "\u8521\u4f9d\u73b2", "department": "\u4f01\u5283\u79d1", "id": "T0005"}], "userdata": {}, "total": 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:39:49.460447
+T0004
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'records': 9, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'page': 1, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 10:40:23.746877
+T0003
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'page': 1, 'records': 9, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 13:31:46.053784
+T0004
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'page': 1, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'records': 9, 'total': 1}
+>>>...MODULE:srv_auto_save >>>2015-07-31 13:31:47.380586
+T0003
+[{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}]
+{'records': 9, 'page': 1, 'rows': [{'branch': '台南', 'full_name': '南希', 'department': '生產部', 'id': 'T0001'}, {'branch': '嘉義', 'full_name': '王忠平', 'department': '財會部', 'id': 'T0002'}, {'branch': '台南', 'full_name': '陳傑西', 'department': '行政部888', 'id': 'T0003'}, {'branch': '臺北', 'full_name': '周杰倫', 'department': '業務部', 'id': 'T0004'}, {'branch': '台中', 'full_name': '蔡依玲', 'department': '企劃科', 'id': 'T0005'}], 'userdata': {}, 'total': 1}
